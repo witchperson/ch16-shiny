@@ -1,0 +1,12 @@
+name: exercise-2
+title: exercise-2
+username:
+account: kangwooc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 285798
+bundleId: 1232227
+url: https://kangwooc.shinyapps.io/exercise-2/
+when: 1519157726.03359
+asMultiple: FALSE
+asStatic: FALSE
